@@ -2,7 +2,7 @@ import requests
 
 API_KEY = "Your-api-key"
 
-city = "Meerut,IN"
+city = "City,Country"
 
 url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}"
 
