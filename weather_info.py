@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "77b7ab70f60a75603ba34957918cf8d8"
+API_KEY = "Your-api-key"
 
 city = "Meerut,IN"
 
